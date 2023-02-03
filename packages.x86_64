@@ -348,12 +348,11 @@ xsettingsd
 kvantum
 qt5ct
 
-# -------- Calamares -------- #
+# -------- vitunix pkg -------- #
 
 boost
 #calamares
-#exodia-calamares
-#exodia-install-scripts
+vitunix-bspwm
 vitunix-calamares
 
 # -------- Hypervisors -------- #
@@ -366,16 +365,13 @@ xf86-video-vmware
 
 # -------- Grub -------- #
 
-#exodia-grub-theme
 os-prober
 lsb-release
-#exodia-repo/grub
 
 
 # -------- Plymouth -------- #
 
 plymouth
-#exodia-plymouth-theme
 
 # -------- Display Manager -------- #
 
