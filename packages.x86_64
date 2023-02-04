@@ -124,6 +124,7 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+bash
 zsh
 
 
@@ -213,6 +214,9 @@ xfce4-power-manager
 xsettingsd
 xorg-xsetroot
 wmname
+kitty
+calc
+networkmanager-dmenu-git
 
 # -------- Printers -------- #
 
@@ -284,7 +288,7 @@ noto-fonts
 noto-fonts-emoji
 terminus-font
 ttf-dejavu
-
+iosevka-serif
 # -------- System -------- #
 
 acpi
@@ -374,6 +378,11 @@ lsb-release
 plymouth
 
 # -------- Display Manager -------- #
+
+#lightdm
+#lightdm-gtk
+#lightdm-gtk-greeter-settings
+nautilus
 
 sddm
 sddm-theme-astronaut
