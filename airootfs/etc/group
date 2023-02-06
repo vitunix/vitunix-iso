@@ -3,7 +3,6 @@ sys:x:3:bin,liveuser
 network:x:90:liveuser
 power:x:98:liveuser
 adm:x:999:liveuser
-lp:x:992:liveuser
 wheel:x:998:liveuser
 uucp:x:987:liveuser
 optical:x:990:liveuser
