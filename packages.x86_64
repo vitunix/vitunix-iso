@@ -217,6 +217,7 @@ wmname
 kitty
 calc
 networkmanager-dmenu-git
+neofetch
 
 # -------- Printers -------- #
 
@@ -252,7 +253,7 @@ xdg-user-dirs-gtk
 
 ## TUI ##
 ranger
-mc
+#mc
 
 # -------- Multimedia -------- #
 
@@ -289,6 +290,7 @@ noto-fonts-emoji
 terminus-font
 ttf-dejavu
 iosevka-serif
+
 # -------- System -------- #
 
 acpi
@@ -357,7 +359,7 @@ qt5ct
 boost
 #calamares
 vitunix-bspwm
-vitunix-calamares
+#vitunix-calamares
 
 # -------- Hypervisors -------- #
 
