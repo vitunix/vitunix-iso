@@ -219,10 +219,16 @@ calc
 networkmanager-dmenu-git
 neofetch
 
+# --------- Neovim packages --------#
+
+pyright
+npm
+nvim-packer-git
+
 # -------- Printers -------- #
 
-cups
-gutenprint
+#cups
+#gutenprint
 
 # -------- Sound -------- #
 
@@ -359,6 +365,7 @@ qt5ct
 boost
 #calamares
 vitunix-bspwm
+#vitunix-hooks
 #vitunix-calamares
 
 # -------- Hypervisors -------- #
@@ -387,8 +394,8 @@ plymouth
 nautilus
 
 sddm
-sddm-theme-astronaut
-#exodia-sddm-theme-corners-git
+#sddm-theme-astronaut
+sddm-theme-corners-git
 
 # -------- AUR Packages -------- #
 
