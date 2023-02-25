@@ -365,7 +365,7 @@ qt5ct
 boost
 #calamares
 vitunix-bspwm
-#vitunix-hooks
+vitunix-hooks
 #vitunix-calamares
 
 # -------- Hypervisors -------- #
