@@ -187,6 +187,7 @@ networkmanager-openvpn
 nethogs
 nm-connection-editor
 net-tools
+neofetch
 
 # bluetooth #
 
@@ -214,21 +215,13 @@ xfce4-power-manager
 xsettingsd
 xorg-xsetroot
 wmname
-kitty
 calc
 networkmanager-dmenu-git
-neofetch
-
-# --------- Neovim packages --------#
-
-pyright
-npm
-nvim-packer-git
 
 # -------- Printers -------- #
 
-#cups
-#gutenprint
+cups
+gutenprint
 
 # -------- Sound -------- #
 
@@ -277,6 +270,7 @@ tumbler
 # -------- Terminals -------- #
 
 alacritty
+kitty
 # xfce4-terminal
 
 # -------- Docs/Editors/etc.. -------- #
@@ -363,10 +357,10 @@ qt5ct
 # -------- vitunix pkg -------- #
 
 boost
-#calamares
 vitunix-bspwm
+calamares
+vitunix-calamares
 vitunix-hooks
-#vitunix-calamares
 
 # -------- Hypervisors -------- #
 
@@ -392,10 +386,9 @@ plymouth
 #lightdm-gtk
 #lightdm-gtk-greeter-settings
 nautilus
-
 sddm
-#sddm-theme-astronaut
-sddm-theme-corners-git
+sddm-theme-astronaut
+#sddm-theme-corners
 
 # -------- AUR Packages -------- #
 
