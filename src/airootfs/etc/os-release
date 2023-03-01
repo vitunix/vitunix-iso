@@ -1,0 +1,10 @@
+NAME="Vitunix"
+PRETTY_NAME="Vitunix"
+ID=Vitunix
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://vitunix.github.io/"
+LOGO=Vitunix
+IMAGE_ID=Vitunix
+IMAGE_VERSION=2022.2.12
