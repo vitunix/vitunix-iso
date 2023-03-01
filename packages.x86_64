@@ -36,7 +36,7 @@ gpart
 gpm
 gptfdisk
 # grml-zsh-config
-# grub
+grub
 hdparm
 hyperv
 intel-ucode
@@ -387,8 +387,7 @@ plymouth
 #lightdm-gtk-greeter-settings
 nautilus
 sddm
-sddm-theme-astronaut
-#sddm-theme-corners
+sddm-theme-corners-git
 
 # -------- AUR Packages -------- #
 
