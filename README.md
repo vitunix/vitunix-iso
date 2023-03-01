@@ -16,7 +16,7 @@ git clone https://github.com/vitunix/vitunix-iso.git
 
 ```bash
 
-sudo mkarchiso -v -w work -o out vitunix-iso
+sudo mkarchiso -v -w work -o out vitunix-iso/src
 ```
 
 ### Note
