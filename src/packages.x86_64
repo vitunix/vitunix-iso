@@ -217,6 +217,7 @@ xorg-xsetroot
 wmname
 calc
 networkmanager-dmenu-git
+rofi-power-menu
 
 # -------- Printers -------- #
 
@@ -289,6 +290,7 @@ noto-fonts
 noto-fonts-emoji
 terminus-font
 ttf-dejavu
+#ttf-material-design-icons
 #iosevka-serif
 ttf-jetbrains-mono-nerd
 
