@@ -1,6 +1,6 @@
 # vitunix-iso
 
-### Building process
+## Building process
 
 
 ```bash
@@ -13,6 +13,29 @@ sudo pacman -S archiso
 git clone https://github.com/vitunix/vitunix-iso.git
 
 ```
+
+## Changing repo source
+
+- I use repo db locally, you have to use the one I hosted on github
+- Change the following lines
+
+#### Open pacman.conf
+
+- Uncomment the core packages and comment out the testing one as follows: 
+
+```
+## Core packages repo ##
+[vitunix-repo]
+SigLevel = Optional TrustAll
+Server = https://vitunix.github.io/$repo/$arch
+
+## Testing
+#[vitunix-repo]
+#SigLevel = Optional TrustAll
+#Server = file:///home/wind/stuff/proj/vitunix-repo/x86_64
+```
+
+## Compile iso 
 
 ```bash
 
