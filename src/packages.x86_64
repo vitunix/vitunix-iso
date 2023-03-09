@@ -219,6 +219,19 @@ calc
 networkmanager-dmenu-git
 rofi-power-menu
 
+##Openbox dependences
+openbox
+#gedit
+#gnome-calculator
+lxappearance-obconf
+#chrome
+parcellite
+gimp
+vlc
+mplayer
+xfce4-terminal
+
+
 # -------- Printers -------- #
 
 cups
@@ -277,8 +290,8 @@ kitty
 # -------- Docs/Editors/etc.. -------- #
 
 atril
-geany
-geany-plugins
+#geany
+#geany-plugins
 vim
 neovim
 nano
@@ -360,10 +373,15 @@ qt5ct
 # -------- vitunix pkg -------- #
 
 boost
-vitunix-bspwm
 calamares
 vitunix-calamares
 vitunix-hooks
+
+
+# ------- vitunix WM -----------#
+
+vitunix-bspwm
+vitunix-openbox
 
 # -------- Hypervisors -------- #
 
@@ -397,16 +415,15 @@ sddm-theme-corners-git
 dmenu
 betterlockscreen
 downgrade
-i3lock-color
+#i3lock-color
 ksuperkey
 light
 networkmanager-dmenu-git
 #obmenu-generator
 #perl-linux-desktopfiles
 picom-ibhagwan-git
-polybar
 #timeshift
-#xfce-polkit
+xfce-polkit
 yay
 #cava
 lsd
