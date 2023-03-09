@@ -1,0 +1,4 @@
+#define iconify_alt_width 8
+#define iconify_alt_height 8
+static unsigned char iconify_alt_bits[] = {
+   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xff, 0xff };
