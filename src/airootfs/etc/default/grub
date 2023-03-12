@@ -49,7 +49,7 @@ GRUB_DISABLE_OS_PROBER=false
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
 #GRUB_BACKGROUND="/usr/share/grub/background.png"
-GRUB_THEME="/boot/grub/themes/starfield/theme.txt"
+#GRUB_THEME="/boot/grub/themes/starfield/theme.txt"
 
 # Uncomment to get a beep at GRUB start
 #GRUB_INIT_TUNE="480 440 1"

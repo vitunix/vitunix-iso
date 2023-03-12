@@ -61,7 +61,7 @@ lvm2
 lynx
 man-db
 man-pages
-mc
+#mc
 mdadm
 #memtest86+
 mkinitcpio
@@ -115,7 +115,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
+#vim
 virtualbox-guest-utils
 vpnc
 wireless-regdb
@@ -184,10 +184,10 @@ firefox
 #google-chrome
 networkmanager
 networkmanager-openvpn
-nethogs
+#nethogs
 nm-connection-editor
 net-tools
-neofetch
+
 
 # bluetooth #
 
@@ -218,13 +218,11 @@ wmname
 calc
 networkmanager-dmenu-git
 rofi-power-menu
+neofetch
 
-##Openbox dependences
+#--------- Openbox dependences
 openbox
-#gedit
-#gnome-calculator
 lxappearance-obconf
-#chrome
 parcellite
 gimp
 vlc
@@ -233,9 +231,9 @@ xfce4-terminal
 
 
 # -------- Printers -------- #
-
+  
 cups
-gutenprint
+#gutenprint
 
 # -------- Sound -------- #
 
@@ -250,7 +248,7 @@ pulseaudio-equalizer-ladspa
 # -------- Files -------- #
 
 highlight
-trash-cli
+#trash-cli
 ueberzug
 thunar
 thunar-archive-plugin
@@ -294,7 +292,6 @@ atril
 #geany-plugins
 vim
 neovim
-nano
 galculator
 
 # -------- Fonts -------- #
@@ -417,7 +414,7 @@ betterlockscreen
 downgrade
 #i3lock-color
 ksuperkey
-light
+#light
 networkmanager-dmenu-git
 #obmenu-generator
 #perl-linux-desktopfiles
